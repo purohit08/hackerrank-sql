@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 33 / 57 solved**
+**Progress: 34 / 57 solved**
 
 ## Solutions
 
@@ -41,6 +41,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 31 | Weather Observation Station 15 | Aggregation | Easy | [.sql](solutions/aggregation/weather-observation-station-15.sql) |
 | 32 | Weather Observation Station 16 | Aggregation | Easy | [.sql](solutions/aggregation/weather-observation-station-16.sql) |
 | 33 | Weather Observation Station 17 | Aggregation | Easy | [.sql](solutions/aggregation/weather-observation-station-17.sql) |
+| 34 | Population Census | Basic Join | Easy | [.sql](solutions/basic-join/population-census.sql) |
 
 ## Repository structure
 
