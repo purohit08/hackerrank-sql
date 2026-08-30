@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 20 / 57 solved**
+**Progress: 21 / 57 solved**
 
 ## Solutions
 
@@ -28,6 +28,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 18 | Higher Than 75 Marks | Basic Select | Easy | [.sql](solutions/basic-select/higher-than-75-marks.sql) |
 | 19 | Type of Triangle | Advanced Select | Easy | [.sql](solutions/advanced-select/type-of-triangle.sql) |
 | 20 | Weather Observation Station 2 | Aggregation | Easy | [.sql](solutions/aggregation/weather-observation-station-2.sql) |
+| 21 | Revising Aggregations - The Count Function | Aggregation | Easy | [.sql](solutions/aggregation/revising-aggregations-the-count.sql) |
 
 ## Repository structure
 
