@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 6 / 57 solved**
+**Progress: 7 / 57 solved**
 
 ## Solutions
 
@@ -14,6 +14,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 4 | Select By ID | Basic Select | Easy | [.sql](solutions/basic-select/select-by-id.sql) |
 | 5 | Japanese Cities' Attributes | Basic Select | Easy | [.sql](solutions/basic-select/japanese-cities-attributes.sql) |
 | 6 | Japanese Cities' Names | Basic Select | Easy | [.sql](solutions/basic-select/japanese-cities-names.sql) |
+| 7 | Weather Observation Station 1 | Basic Select | Easy | [.sql](solutions/basic-select/weather-observation-station-1.sql) |
 
 ## Repository structure
 
