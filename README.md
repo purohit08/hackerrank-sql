@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 2 / 57 solved**
+**Progress: 4 / 57 solved**
 
 ## Solutions
 
@@ -10,6 +10,8 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 |---|---------|----------|------------|----------|
 | 1 | Revising the Select Query I | Basic Select | Easy | [.sql](solutions/basic-select/revising-the-select-query-i.sql) |
 | 2 | Revising the Select Query II | Basic Select | Easy | [.sql](solutions/basic-select/revising-the-select-query-ii.sql) |
+| 3 | Select All | Basic Select | Easy | [.sql](solutions/basic-select/select-all.sql) |
+| 4 | Select By ID | Basic Select | Easy | [.sql](solutions/basic-select/select-by-id.sql) |
 
 ## Repository structure
 
