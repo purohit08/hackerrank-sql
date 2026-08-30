@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 26 / 57 solved**
+**Progress: 27 / 57 solved**
 
 ## Solutions
 
@@ -34,6 +34,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 24 | Japan Population | Aggregation | Easy | [.sql](solutions/aggregation/japan-population.sql) |
 | 25 | Average Population | Aggregation | Easy | [.sql](solutions/aggregation/average-population.sql) |
 | 26 | Population Density Difference | Aggregation | Easy | [.sql](solutions/aggregation/population-density-difference.sql) |
+| 27 | The Blunder | Aggregation | Medium | [.sql](solutions/aggregation/the-blunder.sql) |
 
 ## Repository structure
 
