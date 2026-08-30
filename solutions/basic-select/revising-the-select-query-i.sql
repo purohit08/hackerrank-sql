@@ -1,13 +1,21 @@
-/*
- * HackerRank | SQL | Basic Select
- * Problem : Revising the Select Query I
- * Difficulty: Easy
- * Link   : https://www.hackerrank.com/challenges/revising-the-select-query/problem
- *
- * Task: Query all columns for every American city in CITY with a population
- *       larger than 100,000. The CountryCode for America is 'USA'.
- */
+/* ================================================================
+   HackerRank | SQL | Basic Select
+   Problem #1 - Revising the Select Query I        Difficulty: Easy
+   https://www.hackerrank.com/challenges/revising-the-select-query/problem
+   ----------------------------------------------------------------
+   PROBLEM
+   Query all columns for all American cities in the CITY table with
+   populations larger than 100000. The CountryCode for America is USA.
 
+   CITY table
+     ID           NUMBER
+     NAME         VARCHAR2(17)
+     COUNTRYCODE  VARCHAR2(3)
+     DISTRICT     VARCHAR2(20)
+     POPULATION   NUMBER
+   ================================================================ */
+
+-- SOLUTION
 SELECT *
 FROM CITY
 WHERE POPULATION > 100000
