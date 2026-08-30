@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 16 / 57 solved**
+**Progress: 17 / 57 solved**
 
 ## Solutions
 
@@ -24,6 +24,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 14 | Weather Observation Station 11 | Basic Select | Easy | [.sql](solutions/basic-select/weather-observation-station-11.sql) |
 | 15 | Weather Observation Station 12 | Basic Select | Easy | [.sql](solutions/basic-select/weather-observation-station-12.sql) |
 | 16 | Employee Names | Basic Select | Easy | [.sql](solutions/basic-select/employee-names.sql) |
+| 17 | Salary of Employees | Basic Select | Easy | [.sql](solutions/basic-select/salary-of-employees.sql) |
 
 ## Repository structure
 
