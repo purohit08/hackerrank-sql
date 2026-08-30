@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 24 / 57 solved**
+**Progress: 25 / 57 solved**
 
 ## Solutions
 
@@ -32,6 +32,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 22 | Revising Aggregations - The Sum Function | Aggregation | Easy | [.sql](solutions/aggregation/revising-aggregations-sum.sql) |
 | 23 | Revising Aggregations - Averages | Aggregation | Easy | [.sql](solutions/aggregation/revising-aggregations-the-average.sql) |
 | 24 | Japan Population | Aggregation | Easy | [.sql](solutions/aggregation/japan-population.sql) |
+| 25 | Average Population | Aggregation | Easy | [.sql](solutions/aggregation/average-population.sql) |
 
 ## Repository structure
 
