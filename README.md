@@ -2,7 +2,7 @@
 
 My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
 
-**Progress: 35 / 57 solved**
+**Progress: 36 / 57 solved**
 
 ## Solutions
 
@@ -43,6 +43,7 @@ My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sq
 | 33 | Weather Observation Station 17 | Aggregation | Easy | [.sql](solutions/aggregation/weather-observation-station-17.sql) |
 | 34 | Population Census | Basic Join | Easy | [.sql](solutions/basic-join/population-census.sql) |
 | 35 | African Cities | Basic Join | Easy | [.sql](solutions/basic-join/african-cities.sql) |
+| 36 | Average Population of Each Continent | Basic Join | Easy | [.sql](solutions/basic-join/average-population-of-each-continent.sql) |
 
 ## Repository structure
 
