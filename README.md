@@ -1,0 +1,32 @@
+# HackerRank SQL Solutions
+
+My solutions to the [HackerRank SQL track](https://www.hackerrank.com/domains/sql), worked through one problem at a time. Each file contains the problem statement, a link to the challenge, and the solution query.
+
+**Progress: 2 / 57 solved**
+
+## Solutions
+
+| # | Problem | Category | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | Revising the Select Query I | Basic Select | Easy | [.sql](solutions/basic-select/revising-the-select-query-i.sql) |
+| 2 | Revising the Select Query II | Basic Select | Easy | [.sql](solutions/basic-select/revising-the-select-query-ii.sql) |
+
+## Repository structure
+
+Solutions are grouped by the HackerRank SQL subdomain:
+
+```
+solutions/
+├── basic-select/
+├── advanced-select/
+├── aggregation/
+├── basic-join/
+├── advanced-join/
+└── alternative-queries/
+```
+
+## Notes
+
+- Solutions target **MS SQL Server** syntax (as used in the HackerRank editor) but the
+  core queries are standard SQL and run on most engines.
+- Each query has been checked against sample data before being added here.
